@@ -1,0 +1,29 @@
+_repo: French-Reader-on-the-Cumulative-MethodThe-story-of-Rodolphe-and-Coco-the-Chimpanzee_29398
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dreyspring, Adolphe
+    alias: Dreyspring, Adolf
+    birthdate: 1835
+    gutenberg_agent_id: '33893'
+    url: http://www.gutenberg.org/2009/agents/33893
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2009-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29398'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Readers'
+- !lcc 'PC'
+title: 'French Reader on the Cumulative Method
+
+  The story of Rodolphe and Coco the Chimpanzee'
+url: http://www.gutenberg.org/ebooks/29398
